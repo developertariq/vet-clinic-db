@@ -28,7 +28,7 @@
 
 # 📖 Vet clinic database <a name="about-project"></a>
 
-**Vet clinic** database is a educational project where I will use a relational database to create the data structure for a vet clinic. I will start with one table, and step by step, will create a complete database with data about:
+**Vet clinic** database is an educational project where I will use a relational database to create the data structure for a vet clinic. I will start with one table, and step by step, will create a complete database with data about:
 
 - animals
 - animals' owners
@@ -169,7 +169,7 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Though this is a educational project, there is no scope for improvement into the curriculum.**
+- [ ] **In this educational project, there is no scope for improvement into the curriculum.**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
